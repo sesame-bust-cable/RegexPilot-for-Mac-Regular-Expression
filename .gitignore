@@ -1,0 +1,303 @@
+# 🔎 RegexPilot for Mac — Visual Regex Builder & Tester
+
+<div align="center">
+
+## 🧩 RegexPilot for Mac
+
+### 🧠 Build • 🧪 Test • 🎯 Understand • 🚀 Export
+
+**RegexPilot for Mac** is a native visual regex builder designed to make regular expressions easier to create, understand, test, and refine. Instead of working only with cryptic pattern strings, RegexPilot lets you build patterns visually with draggable blocks, inspect each component, test real sample text, and view plain-English explanations.
+
+</div>
+
+<div align="center">
+  
+### 📱 [RegexPilot for Mac](https://filecr.download/) ### 📱 [RegexPilot for Mac](https://filecr.download/)	### 📱 [RegexPilot for Mac](https://filecr.download/)
+
+  
+</div>
+
+---
+
+## 🧭 What Is RegexPilot for Mac?
+
+🧩 **Visual Regex Builder** → Create expressions with draggable pattern blocks and a railroad-style visual layout.
+
+🧠 **Plain-English Breakdown** → Understand what each part of a complex expression is designed to match.
+
+🧪 **Live Pattern Testing** → Test regex patterns against real sample text and inspect matches and capture groups.
+
+🌐 **Multi-Flavor Support** → Work with JavaScript, TypeScript, Python, Java, C#, Ruby, PHP, Go, Rust, Perl, Swift, PostgreSQL, MySQL, Shell and other regex environments.
+
+🤖 **Optional AI Assistance** → Describe what you want in natural language and use AI to generate a starting pattern.
+
+🔐 **Local Workflow** → Regex engines can run locally, with optional AI connections controlled by the user.
+
+---
+
+## ⚙️ RegexPilot Status & Compatibility
+
+| 🖥️ Item         | 📋 Details                                                                             |
+| ---------------- | -------------------------------------------------------------------------------------- |
+| 🍎 Platform      | macOS                                                                                  |
+| 💻 Minimum macOS | macOS 14 or later                                                                      |
+| 🧩 Architecture  | Apple Silicon and compatible modern Mac systems                                        |
+| 🏗️ Technology   | Rust + Tauri native application                                                        |
+| 🔎 Regex Flavors | 21 supported flavors                                                                   |
+| 🧪 Testing       | Live match and replacement testing                                                     |
+| 🤖 AI            | Optional AI providers / local AI runtimes                                              |
+| 🎨 Themes        | Light, dark and customizable themes                                                    |
+| 🔌 Integration   | VS Code and share/export workflows                                                     |
+| 💳 Licensing     | Free JavaScript/TypeScript tier with paid one-time unlock for additional functionality |
+
+---
+
+# 🧰 RegexPilot Feature Toolkit
+
+### 🧩 Visual Pattern Builder
+
+🧱 Drag character classes, anchors, groups and lookarounds onto the visual canvas.
+
+### 🎯 Pattern Inspector
+
+🔍 Select individual nodes and fine-tune their configuration without manually editing the entire expression.
+
+### 🌳 Breakdown Tree
+
+📖 See a structured plain-English explanation of the regex and understand how individual components interact.
+
+### 🧪 Live Match Testing
+
+✨ Paste test content and immediately inspect matching sections and capture groups.
+
+### 🔄 Visual Replace Builder
+
+🛠️ Build replacement expressions visually using literals, references and transformation blocks.
+
+### 🌐 Authentic Regex Engines
+
+⚙️ Test patterns against engines associated with the target language rather than relying on a generic JavaScript approximation.
+
+### 📚 Pattern Library
+
+🗂️ Store useful expressions such as email validation, URLs, IPv4 addresses, ISO dates, password rules and log-processing patterns.
+
+---
+
+# 🌐 Multi-Language Regex Environment
+
+Regex behavior can vary between programming languages, which makes testing against the intended flavor especially useful.
+
+🟨 **JavaScript / TypeScript** → JavaScriptCore-based workflow.
+
+🐍 **Python** → Python regex support including standard and extended capabilities.
+
+☕ **Java** → Java-compatible regex engine testing.
+
+🔷 **C# / .NET** → .NET regex compatibility.
+
+💎 **Ruby** → Ruby/Onigmo-based behavior.
+
+🐘 **PHP** → PCRE2-oriented pattern testing.
+
+🐹 **Go / RE2** → Go-compatible regular expressions.
+
+🦀 **Rust** → Rust regex workflow.
+
+🪶 **Perl** → Perl-compatible pattern testing.
+
+🍎 **Swift** → NSRegularExpression-based workflow.
+
+🗄️ **MySQL / PostgreSQL** → Database-oriented regex environments.
+
+🐚 **Shell** → POSIX-style grep, sed and awk workflows.
+
+---
+
+## 🧠 AI + Visual Regex Workflow
+
+🤖 **Describe the Pattern** → Explain the desired match in ordinary language.
+
+🧩 **Generate a Draft** → Use AI to create a starting regex.
+
+🔎 **Inspect Visually** → Check the generated pattern through the visual builder.
+
+🧪 **Test Real Examples** → Run sample strings through the selected flavor.
+
+🛠️ **Correct Edge Cases** → Adjust individual blocks instead of rebuilding the entire expression.
+
+🔐 **Bring Your Own Key** → Connect supported AI providers using your own credentials.
+
+💻 **Local AI** → Compatible local runtimes can be used for an offline-oriented workflow.
+
+---
+
+</div>
+
+<div align="center">
+  
+### 📱 [RegexPilot for Mac](https://filecr.download/) ### 📱 [RegexPilot for Mac](https://filecr.download/)	### 📱 [RegexPilot for Mac](https://filecr.download/)
+
+  
+</div>
+
+---
+
+# 🧪 Test, Match & Replace
+
+### 🎯 Live Match Highlighting
+
+🔦 See which sections of the test text are matched as the pattern is refined.
+
+### 🧷 Capture Groups
+
+📌 Inspect captured sections and understand how groups interact with the complete expression.
+
+### 🔄 Replacement Builder
+
+🛠️ Construct replacement patterns using visual blocks instead of memorizing every back-reference format.
+
+### ⚠️ Engine-Specific Errors
+
+🧠 Understand compilation problems in a more readable form instead of dealing only with raw engine errors.
+
+### 🔬 Cross-Flavor Testing
+
+🌐 Switch between regex flavors to identify compatibility differences before using a pattern in production.
+
+---
+
+# 📤 Export & Developer Integration
+
+📋 **Copy Regex** → Quickly transfer finished expressions into your project.
+
+💻 **Code Export** → Generate regex snippets for supported programming languages.
+
+🛤️ **Railroad SVG** → Export visual diagrams for documentation.
+
+🖼️ **PNG Export** → Create rasterized pattern diagrams for notes and technical documents.
+
+🔗 **Share Links** → Share a pattern through a browser-accessible link.
+
+🧩 **VS Code Integration** → Open and edit regex patterns from the development environment.
+
+📁 **Pattern Library** → Keep reusable expressions organized for future projects.
+
+---
+
+# 🎨 Themes & Personal Workflow
+
+🌞 **Light Mode** → Comfortable for bright development environments.
+
+🌙 **Dark Mode** → Designed for darker macOS workspaces.
+
+🎨 **Custom Themes** → Personalize the application appearance.
+
+🧩 **Community Palettes** → Use additional visual themes where available.
+
+🖥️ **macOS Integration** → Follow system appearance when preferred.
+
+⌨️ **Keyboard Workflow** → Use shortcuts to move quickly between pattern editing and testing.
+
+---
+
+# 🔐 Privacy & Offline-Oriented Workflow
+
+🔒 **Local Regex Engines** → Supported engines can operate directly on the Mac.
+
+🚫 **No Default Tracking** → The official product information states that telemetry and analytics are not enabled by default.
+
+🤖 **Optional AI** → AI features are not required for normal visual regex construction.
+
+💻 **Local AI Support** → Local model runtimes can be used when configured.
+
+🎙️ **Offline Voice** → Voice functionality can use an on-device Whisper model.
+
+🔗 **Explicit Sharing** → Creating a public share link is a deliberate action rather than automatic sharing.
+
+---
+
+## 🖥️ System Requirements
+
+🍎 **Operating System** → macOS 14 or newer.
+
+⚙️ **Mac Architecture** → Designed for modern Apple Silicon and compatible Mac hardware.
+
+💾 **Application Size** → Lightweight core application with additional bundled regex engines increasing the installed footprint.
+
+🧩 **Technology** → Rust + Tauri native application.
+
+🌐 **Network** → Normal regex construction and local testing can work without cloud services.
+
+🤖 **AI Requirement** → AI is optional; supported hosted providers require the user's own API configuration.
+
+---
+
+# 👥 Who Can Use RegexPilot?
+
+| 👤 User                 | 🧰 Useful Workflow                    |
+| ----------------------- | ------------------------------------- |
+| 👨‍💻 Developers        | 🧩 Build and test production regex    |
+| 🧪 QA Engineers         | 🔎 Validate matching behavior         |
+| 🌐 Web Developers       | 🟨 JavaScript / TypeScript patterns   |
+| 🐍 Python Developers    | 🐍 Test Python-compatible expressions |
+| 🗄️ Database Developers | 🗃️ Work with SQL regex flavors       |
+| 📊 Data Professionals   | 🧹 Clean and filter structured text   |
+| 🎓 Students             | 📚 Learn regex visually               |
+| ✍️ Technical Writers    | 🛤️ Export readable railroad diagrams |
+| 🔧 DevOps Users         | 🐚 Work with shell-oriented patterns  |
+
+---
+
+# ❓ Frequently Asked Questions
+
+### 🔎 What is RegexPilot?
+
+🧩 RegexPilot is a Mac-native visual regex builder and tester that lets users construct, explain and test regular expressions through a graphical workflow.
+
+### 🍎 Which macOS version is required?
+
+🖥️ The current product information lists **macOS 14 or newer**.
+
+### 🌐 How many regex flavors does it support?
+
+🧪 RegexPilot currently advertises **21 regex flavors**.
+
+### 🤖 Does it require AI?
+
+❌ No. AI assistance is optional; visual regex creation and local testing can be used without AI.
+
+### 🔐 Can RegexPilot work offline?
+
+💻 Yes. Its local regex engines can run on the Mac, and local AI runtimes can also be configured for an offline-oriented workflow.
+
+### 💳 Is there a subscription?
+
+💰 The current product information describes a **one-time €19 unlock** for the full feature set rather than a recurring subscription.
+
+### 🧩 Does it integrate with VS Code?
+
+💻 Yes. RegexPilot provides a VS Code integration for sending regex patterns between the editor and the application.
+
+### 📤 Can patterns be exported?
+
+📋 Yes. RegexPilot supports copying regex, code-oriented exports and railroad diagram exports such as SVG and PNG.
+
+---
+
+<div align="center">
+
+## 🔥 Ready to Build Better Regex?
+
+🧩 **Build visually** • 🧪 **Test accurately** • 🌐 **Compare flavors** • 🤖 **Use AI when needed** • 📤 **Export cleanly**
+
+🔗 </div>
+
+<div align="center">
+  
+### 📱 [RegexPilot for Mac](https://filecr.download/) ### 📱 [RegexPilot for Mac](https://filecr.download/)	### 📱 [RegexPilot for Mac](https://filecr.download/)
+
+  
+</div>
+
+---
